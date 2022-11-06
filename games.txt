@@ -1,0 +1,31 @@
+Indra;Wario,Luigi,Byleth;Linkau;Sora;3-2
+Kitsune;Link;Linkau;Sora,Kazuya;3-0
+Indra;Falcon,Wario;Kitsune;Link;3-0
+Indra;Falcon;Edel;Lucina,Rosalina,Felinferno;3-0
+Indra;Byleth;Gorx;Ness;3-0
+Indra;Falcon,Palutena;MineNombre;Ness;3-0
+Tian's;Krool,Ike;Linkau;Sora;3-0
+Edel;Harmonie,Peach,Aegis,Lucina;Linkau;Sora;3-1
+Tian's;Krool,Mario;Edel;Rosalina;3-0
+Uvogin;Megaman;Linkau;Sora,kazuya;3-0
+Edel;Lucina;Uvogin;Megaman,Ryu;3-0
+Uvogin;Megaman;Tian's;Krool,Ike,Mario;3-1
+Edel;Lucina,Rosalina;MineNombre;Ness,Krool;3-1
+MineNombre;Ness;Linkau;Sora,Sephiroth,Krool;3-0
+MineNombre;Ness;Kitsune;Link;3-2
+DracoFlo;Lucario;Edel;Lucina,Rosalina;3-0
+Gorx;Ness;Kitsune;Link,Hero;3-2
+Gorx;Ness;DracoFlo;Lucario;3-1
+Indra;Falcon,Roy;DracoFlo;Lucario;3-2
+Sig;Diddy;Gorx;Ness;3-0
+Indra;Palutena;Analfabeth;Sephiroth,Wiifit;3-0
+MineNombre;Ness;Analfabeth;Sephiroth;3-1
+DracoFlo;Lucario,Yoshi;Linkau;Sora,Steve;3-0
+DracoFlo;Lucario;MineNombre;Ness;3-0
+Indra;Falcon;Abikerru;Link cartoon;3-0
+Abikerru;Link cartoon;Edel;Lucina;3-2
+Sig;Diddy kong;Abikerru;Link cartoon;3-2
+Tian's;Mario;Kitsune;Link;3-2
+Edel;Lucina,Rosalina;Kitsune;Link,Felinferno;3-2
+Tian's;Mario,Krool;Gorx;Ness;3-2
+Tian's;Mario;MineNombre;Ness;3-0
